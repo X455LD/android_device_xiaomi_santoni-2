@@ -173,6 +173,10 @@ PRODUCT_PACKAGES += \
     FMRadio \
     libfmjni
 
+# Snap Gallery
+PRODUCT_PACKAGES += \
+    SnapdragonGallery
+
 # Gatekeeper HAL
 PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0-impl \
